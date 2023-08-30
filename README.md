@@ -11,5 +11,8 @@
 | Process Associate | 4.0 | 5.0 | 4.0 | 5.0 | 5.0 | 5.0 | 5.0 |
 | Manager | 2.0 | 3.0 | 5.0 | 1.0 | 3.0 | 2.0 | 3.0 |
 
-#Likes
+## Likes
 ![Açıklama](likes.png)
+
+## Dislikes
+![Açıklama](dislikes.png)
